@@ -4,8 +4,6 @@ My first website using Markdown and GitHub Pages.
 
 Welcome to my website!
 
-![Test](https://giphy.com/embed/8Iv5lqKwKsZ2g)
-
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
 ## Links (Two hashes is a second level heading)
