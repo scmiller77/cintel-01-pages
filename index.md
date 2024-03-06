@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 Welcome to my website!
 
-<iframe src="https://giphy.com/embed/8Iv5lqKwKsZ2g" width="480" height="201" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dicaprio-draw-serial-8Iv5lqKwKsZ2g">via GIPHY</a></p>
+![Test](https://giphy.com/embed/8Iv5lqKwKsZ2g)
 
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
